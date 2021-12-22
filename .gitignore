@@ -1,0 +1,5 @@
+.terraform.lock.hcl
+kubeconfig_my-eks-cluster
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
